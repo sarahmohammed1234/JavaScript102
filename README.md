@@ -1,4 +1,4 @@
-# JavaScript102 (Reservation 🚘🙎‍♂️👨‍✈️) 
+# JavaScript102 (Reservation 🚘✈🙎‍♂️) 
 
 We were asked, during the first week of the summer training at Qassim Panorama Company, an individual task, which is to study and complete 
 the Satr platform course [https://satr.codes/] on full stack JavaScript. We were asked to complete the first seven tracks of the course,
